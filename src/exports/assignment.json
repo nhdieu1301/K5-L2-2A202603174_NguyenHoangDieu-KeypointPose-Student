@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603174",
+ "ten": "NguyenHoangDieu",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "nhdieu1301",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000137767.jpg",
+  "000000156069.jpg",
+  "000000201702.jpg",
+  "000000429594.jpg",
+  "000000525227.jpg",
+  "000000030960.jpg",
+  "000000056651.jpg",
+  "000000467300.jpg",
+  "000000043500.jpg",
+  "000000391222.jpg",
+  "000000572411.jpg",
+  "000000130816.jpg"
+ ],
+ "faces": [
+  "face_145751.jpg",
+  "face_3348.jpg",
+  "face_496353.jpg",
+  "face_137371.jpg",
+  "face_442231.jpg",
+  "face_186226.jpg",
+  "face_296767.jpg",
+  "face_560526.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "persons-NguyenHoangDieu"
+  },
+  "faces": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "faces-NguyenHoangDieu"
+  }
+ }
+}
